@@ -1,0 +1,15 @@
+/Users/bearen/Documents/CSharp/TwoSum/TwoSum/bin/Debug/net6.0/TwoSum
+/Users/bearen/Documents/CSharp/TwoSum/TwoSum/bin/Debug/net6.0/TwoSum.deps.json
+/Users/bearen/Documents/CSharp/TwoSum/TwoSum/bin/Debug/net6.0/TwoSum.runtimeconfig.json
+/Users/bearen/Documents/CSharp/TwoSum/TwoSum/bin/Debug/net6.0/TwoSum.dll
+/Users/bearen/Documents/CSharp/TwoSum/TwoSum/bin/Debug/net6.0/TwoSum.pdb
+/Users/bearen/Documents/CSharp/TwoSum/TwoSum/obj/Debug/net6.0/TwoSum.csproj.AssemblyReference.cache
+/Users/bearen/Documents/CSharp/TwoSum/TwoSum/obj/Debug/net6.0/TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bearen/Documents/CSharp/TwoSum/TwoSum/obj/Debug/net6.0/TwoSum.AssemblyInfoInputs.cache
+/Users/bearen/Documents/CSharp/TwoSum/TwoSum/obj/Debug/net6.0/TwoSum.AssemblyInfo.cs
+/Users/bearen/Documents/CSharp/TwoSum/TwoSum/obj/Debug/net6.0/TwoSum.csproj.CoreCompileInputs.cache
+/Users/bearen/Documents/CSharp/TwoSum/TwoSum/obj/Debug/net6.0/TwoSum.dll
+/Users/bearen/Documents/CSharp/TwoSum/TwoSum/obj/Debug/net6.0/refint/TwoSum.dll
+/Users/bearen/Documents/CSharp/TwoSum/TwoSum/obj/Debug/net6.0/TwoSum.pdb
+/Users/bearen/Documents/CSharp/TwoSum/TwoSum/obj/Debug/net6.0/TwoSum.genruntimeconfig.cache
+/Users/bearen/Documents/CSharp/TwoSum/TwoSum/obj/Debug/net6.0/ref/TwoSum.dll
